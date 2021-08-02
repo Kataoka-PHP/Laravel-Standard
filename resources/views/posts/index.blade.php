@@ -20,7 +20,7 @@
                 </span>
             </div>
             </div>
-            @endforeach ($posts as $post)
+            @endforeach
     </div>
     
 @endsection('content')
